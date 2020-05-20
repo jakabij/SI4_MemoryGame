@@ -1,1 +1,2 @@
-# SI4_MemoryGame
+Basic memory game.
+Enjoy!
